@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" fill="none">
+  <rect width="400" height="300" fill="#1a202c" />
+  <rect x="80" y="60" width="240" height="150" rx="10" fill="#63b3ed" />
+  <text x="200" y="140" font-family="Arial" font-size="40" fill="white" text-anchor="middle">VISA</text>
+  <text x="200" y="170" font-family="Arial" font-size="20" fill="white" text-anchor="middle">APPROVED</text>
+  <path d="M300 200 L350 250 L390 180" stroke="#48bb78" stroke-width="15" fill="none" />
+  <text x="200" y="280" font-family="Arial" font-size="30" fill="white" text-anchor="middle">Prediction Model</text>
+</svg>
