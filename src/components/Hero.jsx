@@ -25,7 +25,7 @@ const Hero = () => {
 
                         <div className="mt-10 flex gap-4">
                             <a
-                                href="https://linkedin.com/in/arpit-kumar-lariya"
+                                href="https://www.linkedin.com/in/arpit-lariya-704666198/"
                                 target="_blank"
                                 className="bg-blue-600 hover:bg-blue-700 text-white py-3 px-6 rounded-full font-bold shadow-lg shadow-blue-500/20 transition-all hover:scale-105 flex items-center gap-2"
                             >
